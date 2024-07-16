@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Spider-Man",
+        "nota": 8.7,
+        "genero": "Aventura",
+        "plataforma": "Playstation 4"
+    },
+    {
+        "titulo": "The Last of Us",
+        "nota": 9.4,
+        "genero": "Sobrevivencia",
+        "plataforma": "Playstation 4"
+    },
+    {
+        "titulo": "God of War",
+        "nota": 9.3,
+        "genero": "Aventura",
+        "plataforma": "Playstation 4"
+    },
+    {
+        "titulo": "Super Mario Odyssey",
+        "nota": 8.9,
+        "genero": "Plataforma",
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "titulo": "Pokemon Scarlet",
+        "nota": 7.5,
+        "genero": "RPG",
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "titulo": "Splatoon 3",
+        "nota": 8.2,
+        "genero": "Shooter",
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "titulo": "The Witcher 3",
+        "nota": 9.9,
+        "genero": "RPG",
+        "plataforma": "PC"
+    },
+    {
+        "titulo": "Overwatch",
+        "nota": 8.2,
+        "genero": "Shooter",
+        "plataforma": "PC"
+    },
+    {
+        "titulo": "GTA V",
+        "nota": 9.3,
+        "genero": "Mundo Aberto",
+        "plataforma": "PC"
+    },
+    {
+        "titulo": "Hollow Knight",
+        "nota": 9.2,
+        "genero": "Plataforma",
+        "plataforma": "PC"
+    }
+]
